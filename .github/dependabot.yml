@@ -7,4 +7,4 @@ updates:
     groups:
       terraform-modules:
         patterns:
-          - "terraform-aws-modules/terraform-aws-ec2-instance"
+          - "*"
