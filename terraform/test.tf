@@ -16,7 +16,7 @@ module "ec2_instance" {
 }
 
 module "ec2_instance_1" {
-  source = "github.com/terraform-aws-modules/terraform-aws-ec2-instance?ref=v5.0.0"
+  source = "github.com/terraform-aws-modules/terraform-aws-ec2-instance?ref=v5.2.1"
 
   name = "single-instance"
 
